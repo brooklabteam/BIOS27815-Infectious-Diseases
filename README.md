@@ -22,13 +22,13 @@
 
 **Tuesday, January 7:  The parasite and pathogen tree of life**
 
-* 9:30-9:50am: Reading recap
+* 9:30-9:50am: Reading recap [Yek et al.]
 * 9:50-10:00am: Lecture: The parasite and pathogen tree of life
   * Includes:
     * identifying an infectious agent
     * what are bacteria, viruses, protozoa, and helminths? 
     * introduction to phylogenetic techniques: simple phylogenies, phylogeography, time-scaled phylogenies
-    * breif introduction to diagnostics in infectious diseases
+    * brief introduction to diagnostics in infectious diseases
 * 10:00-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/NGS-Outbreak-Investigation.pdf)
   * [index case sequencing](https://artic-network.github.io/artic-live/gc/index_case_title.html)
   * heavy metal associated cases [one](https://artic-network.github.io/artic-live/gc/case_2_title.html), [two](https://artic-network.github.io/artic-live/gc/case_3_title.html), [three](https://artic-network.github.io/artic-live/gc/case_4_title.html)
@@ -45,7 +45,7 @@
   * [Final Nextstrain phylogeny](https://nextstrain.org/community/emmahodcroft/GC/HMFV/SC?p=grid)
   
 
-**Wednesday, January 8:  Introduction to vector-borne viruses*
+**Wednesday, January 8:  Introduction to vector-borne viruses**
 
 * 9:30-10:40am: Lecture: Introduction to vector-borne viruses
   * Includes:
@@ -59,7 +59,7 @@
       
     
   
-**Thursday, January 9:  SARS-CoV-2 in the context of global health*
+**Thursday, January 9:  SARS-CoV-2 in the context of global health**
 
 * 9:30-10:40am: Lecture: Introduction to vector-borne viruses
   * Includes:
