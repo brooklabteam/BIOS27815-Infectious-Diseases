@@ -56,7 +56,7 @@
       
 **Thursday, January 9:  SARS-CoV-2 in the context of global health**
 
-* 9:30-10:40am: Lecture: Introduction to vector-borne viruses
+* 9:30-10:40am: Lecture: SARS-CoV-2 in the context of global health
   * Includes:
       * SARS-CoV-2 in the context of other coronaviruses
       * Nextstrain and GISAID
