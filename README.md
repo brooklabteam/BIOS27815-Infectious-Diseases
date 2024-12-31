@@ -2,33 +2,30 @@
 
 # Infectious Diseases: Week 1 - Daily Schedule
 
-**Monday, January 6:  Introduction to epidemiology and public health terminology**
+**Monday, January 6:  Introduction to infectious diseases in a global health setting**
 
-* 9:30-9:45am: Introductions 
-* 9:45-9:50am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/course-info/Syllabus-Infectious-Diseases.pdf)
-* 9:50-10:45am: Lecture: Introduction to epidemiology and public health terminology
+* 9:30-9:40am: Introductions 
+* 9:40-9:55am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/course-info/Syllabus-Infectious-Diseases.pdf)
+* 9:55-10:45am: Lecture: Introduction to infectious diseases in a global health setting
   * Includes:
       * what is global health?
       * major diseases of global health concern
-      * R0, RE, force of infection (λ)
-      * critical community size and pathogen persistence
-      * herd immunity
-      * critical vaccination threshold 
+      * identifying an infectious agent
+        * bacteria, viruses, protozoa, and helminths
+        * infectious disease diagnostics in global health settings
+      * understanding infectious diseases
+        * principles of epidemiology and disease dynamics
+          * R0, RE, force of infection (λ)
+          * herd immunity and the critical vaccination threshold 
 * 10:45-10:50am: Biobreak
-* 10:50 - 11:40am: [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
+* 10:50 - 11:40am: [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
 * 11:45-11:50am: Sign up for oral presentation slots
 
 
 
-**Tuesday, January 7:  The parasite and pathogen tree of life**
+**Tuesday, January 7:  Identifying infectious diseases**
 
-* 9:30-9:50am: Reading recap [Yek et al.]
-* 9:50-10:00am: Lecture: The parasite and pathogen tree of life
-  * Includes:
-    * identifying an infectious agent
-    * what are bacteria, viruses, protozoa, and helminths? 
-    * introduction to phylogenetic techniques: simple phylogenies, phylogeography, time-scaled phylogenies
-    * brief introduction to diagnostics in infectious diseases
+* 9:30-10:00am: Reading recap and discussion [Yek et al. 2022]
 * 10:00-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/NGS-Outbreak-Investigation.pdf)
   * [index case sequencing](https://artic-network.github.io/artic-live/gc/index_case_title.html)
   * heavy metal associated cases [one](https://artic-network.github.io/artic-live/gc/case_2_title.html), [two](https://artic-network.github.io/artic-live/gc/case_3_title.html), [three](https://artic-network.github.io/artic-live/gc/case_4_title.html)
