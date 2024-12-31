@@ -8,15 +8,13 @@
 * 9:40-9:55am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/course-info/Syllabus-Infectious-Diseases.pdf)
 * 9:55-10:45am: Lecture: Introduction to infectious diseases in a global health setting
   * Includes:
-      * what is global health?
-      * major diseases of global health concern
-      * identifying an infectious agent
-        * bacteria, viruses, protozoa, and helminths
-        * infectious disease diagnostics in global health settings
-      * understanding infectious diseases
-        * principles of epidemiology and disease dynamics
-          * R0, RE, force of infection (λ)
-          * herd immunity and the critical vaccination threshold 
+      * Introduction to global health
+      * Introduction to infectious diseases
+        * causative agents: bacteria, viruses, protozoa, and helminths
+        * resulting diseases, especially those of global health concern
+      * Introduction to the study of infectious diseases
+        * epidemiology
+        * population biology/infectious disease dynamics
 * 10:45-10:50am: Biobreak
 * 10:50 - 11:40am: [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
 * 11:45-11:50am: Sign up for oral presentation slots
