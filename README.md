@@ -5,7 +5,7 @@
 **Monday, January 6:  Introduction to infectious diseases in a global health setting**
 
 * 9:30-9:40am: Introductions 
-* 9:40-9:55am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/course-info/Syllabus-Infectious-Diseases.pdf)
+* 9:40-9:55am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/course-info/Syllabus-Infectious-Diseases.pdf)
 * 9:55-10:45am: Lecture: Introduction to infectious diseases in a global health setting
   * Includes:
       * what is global health?
@@ -25,7 +25,7 @@
 
 **Tuesday, January 7:  Identifying infectious diseases**
 
-* 9:30-10:00am: Reading recap and discussion [Yek et al. 2022](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/readings/Yek_et_al_2022_Metagenomic pathogen sequencing in resource scarce settings.pdf)
+* 9:30-10:00am: Reading recap and discussion [Yek et al. 2022](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Yek_et_al_2022_Metagenomic%20pathogen%20sequencing%20in%20resource%20scarce%20settings.pdf)
 * 10:00-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/NGS-Outbreak-Investigation.pdf)
   * [index case sequencing](https://artic-network.github.io/artic-live/gc/index_case_title.html)
   * heavy metal associated cases [one](https://artic-network.github.io/artic-live/gc/case_2_title.html), [two](https://artic-network.github.io/artic-live/gc/case_3_title.html), [three](https://artic-network.github.io/artic-live/gc/case_4_title.html)
