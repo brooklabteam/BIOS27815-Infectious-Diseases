@@ -80,8 +80,8 @@
     * Paige & Trinity: [Dohmen et al. 2022](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Dohmen%20et%20al%202022_Digital%20health%20exchange%20in%20Kenya.pdf)
     * Katie & Yolanda: [van Duijn et al. 2021](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/van_Duijn_et_al_2021_Connected%20diagnostics%20to%20improve%20malaria%20services%20in%20Kenya.pdf)
     * Sadie: [Husiman et al 2022](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Huisman_et_al_2022_Digital%20Mobile%20Health%20Platform%20for%20LMICs.pdf)
-    * Naomi [Gomez-Perez et al. 2024](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Gomez-Perez_et_al_2024_Preparing%20SSA%20healthcare%20for%20future%20outbreaks%20-%20insights%20from%20COVID-19.pdf)
-    * Obi [van Duijn et al. 2023](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/van_Duijn%20et%20al%202023_COVID-19%20response%20in%20Kenya.pdf)
+    * Naomi: [Gomez-Perez et al. 2024](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Gomez-Perez_et_al_2024_Preparing%20SSA%20healthcare%20for%20future%20outbreaks%20-%20insights%20from%20COVID-19.pdf)
+    * Obi: [van Duijn et al. 2023](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/van_Duijn%20et%20al%202023_COVID-19%20response%20in%20Kenya.pdf)
 
     
       
