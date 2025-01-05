@@ -64,7 +64,7 @@
 * 10:45-11:15: Student presentation and discussion #3 (MERS - [Cho et al. 2016](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Cho_et_al_2016_MERS-CoV%20outbreak%20following%20a%20single%20patient%20exposure%20in%20an%20emergency%20room%20in%20South%20Korea.pdf))
 * 10:45-11:15: Student presentation and discussion #4 (SARS-CoV-2 - [Worobey et al. 2021](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Worobey_et_al_2022_Huanan%20Seafood%20Market%20at%20the%20epicenter%20of%20the%20COVID-19%20pandemic.pdf))
       
-**Friday, January 10:  Field trip to Amsterday**
+**Friday, January 10:  Field trip to Amsterdam**
 
 * 6:22 am: Train to Amsterdam from Paris Gare du Nord
 * 11:00am-12:00pm: Tour of [Museum Vrolik](http://www.museumvrolik.nl/en/)
