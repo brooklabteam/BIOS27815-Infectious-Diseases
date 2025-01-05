@@ -6,7 +6,7 @@
 
 * 9:30-9:40am: Introductions 
 * 9:40-9:55am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/course-info/Syllabus-Infectious-Diseases.pdf)
-* 9:55-10:45am: Lecture: Introduction to infectious diseases in a global health setting
+* 9:55-10:45am: [Lecture: Introduction to infectious diseases in a global health setting](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/lectures/IntroIDGlobalhealth.pdf)
   * Includes:
       * Introduction to global health
       * Introduction to infectious diseases
