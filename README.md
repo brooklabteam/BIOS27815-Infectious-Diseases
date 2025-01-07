@@ -45,7 +45,7 @@
 
 **Wednesday, January 8:  Introduction to vector-borne viruses**
 
-* 9:30-10:40am: Lecture: Introduction to vector-borne viruses
+* 9:30-10:40am: [Lecture: Introduction to vector-borne viruses](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/lectures/IntroVBD.pdf)
   * Includes:
       * what is a vector?
       * taxonomy of vector-borne viruses
