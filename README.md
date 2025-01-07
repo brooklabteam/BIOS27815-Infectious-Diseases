@@ -23,8 +23,11 @@
 
 **Tuesday, January 7:  Identifying infectious diseases**
 
-* 9:30-10:00am: [Lecture](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/lectures/RecapBohl2022.pdf): Reading recap and discussion [Bohl et al. 2022](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Bohl%20et%20al%202022_mNGS%20and%20viral%20discovery%20in%20a%20low%20resource%20setting.pdf)
-* 10:00-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/NGS-Outbreak-Investigation.pdf)
+* 9:30 - 9:35am: House keeping
+* 9:35-9:55am: Recap from Dynamical Fever
+* 9:55 -10:25am: [Lecture](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/lectures/RecapBohl2022.pdf): Reading recap and discussion [Bohl et al. 2022](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Bohl%20et%20al%202022_mNGS%20and%20viral%20discovery%20in%20a%20low%20resource%20setting.pdf)
+* 10:25-10:30am: Break
+*10:30-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/NGS-Outbreak-Investigation.pdf)
   * [index case sequencing](https://artic-network.github.io/artic-live/gc/index_case_title.html)
   * heavy metal associated cases [one](https://artic-network.github.io/artic-live/gc/case_2_title.html), [two](https://artic-network.github.io/artic-live/gc/case_3_title.html), [three](https://artic-network.github.io/artic-live/gc/case_4_title.html)
   * heavy metal associated controls [one](https://artic-network.github.io/artic-live/gc/control_1_title.html), [two](https://artic-network.github.io/artic-live/gc/control_2_title.html), [three](https://artic-network.github.io/artic-live/gc/control_3_title.html)
