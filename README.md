@@ -27,12 +27,18 @@
 * 9:35-9:55am: Recap from Dynamical Fever
 * 9:55 -10:25am: [Lecture](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/lectures/RecapBohl2022.pdf): Reading recap and discussion [Bohl et al. 2022](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Bohl%20et%20al%202022_mNGS%20and%20viral%20discovery%20in%20a%20low%20resource%20setting.pdf)
 * 10:25-10:30am: Break
-*10:30-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/NGS-Outbreak-Investigation.pdf)
+* 10:30-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/NGS-Outbreak-Investigation.pdf)
   * [index case sequencing](https://artic-network.github.io/artic-live/gc/index_case_title.html)
   * heavy metal associated cases [one](https://artic-network.github.io/artic-live/gc/case_2_title.html), [two](https://artic-network.github.io/artic-live/gc/case_3_title.html), [three](https://artic-network.github.io/artic-live/gc/case_4_title.html)
   * heavy metal associated controls [one](https://artic-network.github.io/artic-live/gc/control_1_title.html), [two](https://artic-network.github.io/artic-live/gc/control_2_title.html), [three](https://artic-network.github.io/artic-live/gc/control_3_title.html)
   * [pet shop environmental sampling](https://artic-network.github.io/artic-live/gc/pet_shop_env_title.html)
-  * [wastewater sampling](https://artic-network.github.io/artic-live/gc/wastewater_seq_title.html)
+  
+  
+
+**Wednesday, January 8:  Introduction to vector-borne viruses**
+
+* 9:30-10:00am: Finish [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/activities/NGS-Outbreak-Investigation.pdf)
+* [wastewater sampling](https://artic-network.github.io/artic-live/gc/wastewater_seq_title.html)
   * [Genome Segment S](https://artic-network.github.io/artic-live/gc/segment_S.fasta.txt)
   * [Genome Segment L](https://artic-network.github.io/artic-live/gc/segment_L.fasta.txt)
   * [Segment L Phylogeny](https://nextstrain.org/community/emmahodcroft/GC/arenavirus/L)
@@ -40,20 +46,17 @@
   * [Tanglegram](https://nextstrain.org/community/emmahodcroft/GC/arenavirus/S:community/emmahodcroft/GC/arenavirus/L)
   * [Metal cluster sequencing](https://nextstrain.org/community/emmahodcroft/GC/HMFV/FC)
   * [Phylogenetic analysis of rock concert sequences](https://nextstrain.org/community/emmahodcroft/GC/HMFV/FC?p=grid)
-  * [Final Nextstrain phylogeny](https://nextstrain.org/community/emmahodcroft/GC/HMFV/SC?p=grid)
-  
-
-**Wednesday, January 8:  Introduction to vector-borne viruses**
-
-* 9:30-10:40am: [Lecture: Introduction to vector-borne viruses](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/lectures/IntroVBD.pdf)
+  * [Final Nextstrain phylogeny](https://nextstrain.org/community/emmahodcroft/GC/HMFV/SC?p=grid)'
+  * Take a look at CZID!
+* 10:00-10:40am: [Lecture: Introduction to vector-borne viruses](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/lectures/IntroVBD.pdf)
   * Includes:
       * what is a vector?
       * taxonomy of vector-borne viruses
       * deep dive: biology of dengue and challenges to control
       * impacts of climate change on dengue transmission
-* 10:40-10:45: Biobreak
-* 10:45-11:15: Student presentation and discussion #1 (Zika - [Katzelnick et al. 2020](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Katzelnick_et_al_2020_Zika%20virus%20infection%20enhances%20future%20risk%20of%20severe%20dengue%20disease.pdf))
-* 10:45-11:15: Student presentation and discussion #2 (Chikungunya - [Xavier et al. 2023](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Xavier_et_al_2023_Increased%20interregional%20virus%20exchange%20and%20nucleotide%20diversity%20outline%20the%20expansion%20of%20chikungunya%20virus%20in%20Brazil.pdf))
+* 10:35-10:40: Break
+* 10:40-11:10: Student presentation and discussion #1 (Zika - [Katzelnick et al. 2020](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Katzelnick_et_al_2020_Zika%20virus%20infection%20enhances%20future%20risk%20of%20severe%20dengue%20disease.pdf))
+* 11:15-11:45: Student presentation and discussion #2 (Chikungunya - [Xavier et al. 2023](https://github.com/brooklabteam/BIOS27815-Infectious-Diseases/blob/main/readings/Xavier_et_al_2023_Increased%20interregional%20virus%20exchange%20and%20nucleotide%20diversity%20outline%20the%20expansion%20of%20chikungunya%20virus%20in%20Brazil.pdf))
       
 **Thursday, January 9:  SARS-CoV-2 in the context of global health**
 
